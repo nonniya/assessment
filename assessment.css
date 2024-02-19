@@ -1,0 +1,19 @@
+body {
+    background-color: #f19ca7;
+    color: #ffffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button {
+    padding: 5px 20px;
+    background-color: #e95464;
+    border-style: none;
+    color: #ffffff;
+}
+input {
+    height: 20px;
+}
+/*
+width : 幅
+*/
